@@ -1,4 +1,4 @@
-# 01_abbbrv_search: Abbreviation Extractor
+# 01_abbrv_search: Abbreviation Extractor
 ### README.md
 
 This repository provides a simple Python script to help editors, writers, and researchers extract unique abbreviations from PDF documents. It can be particularly useful when editing documents such as theses, articles, or research papers to ensure consistency and proper usage of abbreviations throughout the text.
